@@ -30,8 +30,8 @@ from . import _ult_cache
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("⚡ Owner ⚡", url="https://t.me/anonymous7205"),
+        Button.url("⚡ Channel •⚡, url="https://t.me/cinemaforyou07"),
     ],
 ]
 
@@ -167,10 +167,10 @@ async def _(e):
 async def repo(e):
     res = [
         await e.builder.article(
-            title="Ultroid Userbot",
-            description="Userbot | Telethon",
+            title="🆂🅳's Manager",
+            description="Owner:- @anonymous7205",
             thumb=wb(ultpic, 0, "image/jpeg", []),
-            text="• **ULTROID USERBOT** •",
+            text="• **Owner:- @anonymous7205** •",
             buttons=SUP_BUTTONS,
         ),
     ]
