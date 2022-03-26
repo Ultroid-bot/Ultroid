@@ -13,7 +13,7 @@ Any contribution done to this repository will be appreciated! 🎉
 - If you are busy or getting trouble while making changes, you can just open the issue (explaining it).
 
 ### Contributing
-- You can [fork](https://github.com/TeamUltroid/Ultroid/fork) this repository.
+- You can [fork](https://github.com/soymadip/Ultroid/fork) this repository.
 - You can commits your changes now.
 - You can [Git-Squash](https://docs.github.com/en/get-started/using-git/about-git-rebase) your commits, if they are more. [Optional]
 - At last, You are ready to [`make a Pull Request`](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
